@@ -1,0 +1,82 @@
+ChatGPT
+
+
+(x^2/16) + y^2 (1 + 0.1 x)/4 - 1
+
+
+x=f(u,v)=.1*((1+.1*v))*cos(u)*sin(v)
+y=g(u,v)=.1*((1+.1*v))*sin(u)*sin(v)
+z=h(u,v)=1.65*.1*cos(v)
+
+0<=u<=2*pi  0<=v<=pi
+
+
+
+(1 + 0.2*sin(36*u))*(.2*((1+.2*v))*cos(u)*sin(v))
+
+ (1 + 0.2*sin(36*u))*(.2*((1+.2*v))*sin(u)*sin(v))
+ (1 + 0.2*sin(36*u))*(1.65*.2*cos(v))
+ 
+ -.15818
+ 
+ 
+ https://www.geogebra.org/u/roman
+ 
+ https://www.geogebra.org/m/rx8uz4kx
+ 
+ https://www.geogebra.org/m/krmmnhu4
+ 
+ https://www.geogebra.org/m/fmvdmz4s
+ 
+ https://www.geogebra.org/m/fmvdmz4s
+ 
+ https://www.geogebra.org/m/hhmfbvde
+ 
+ 
+ 1
+ 
+ ((.9*((1+.1*v))*cos(u)*sin(v)))-.28413548
+ 
+ 
+ ((.9*((1+.1*v))*sin(u)*sin(v)))-.002
+ 
+ 
+ (15*.1*cos(v))-.47
+ 
+ 
+ 2
+ 
+  ((.9*((1+.1*v))*cos(u)*sin(v)))-.817929266
+   ((.9*((1+.1*v))*sin(u)*sin(v)))-.536077
+   
+    (15*.1*cos(v))-.4727
+    
+    
+    
+    3
+    
+    ((.9*((1+.1*v))*cos(u)*sin(v)))-.279628
+   ((.9*((1+.1*v))*sin(u)*sin(v)))-.00370373
+   
+    (15*.1*cos(v))-.4804156
+    
+    
+    
+    4
+    
+     ((.9*((1+.1*v))*cos(u)*sin(v)))-.279628
+   ((.9*((1+.1*v))*sin(u)*sin(v)))-.00370373
+   
+    (15*.1*cos(v))-.4804156  
+    
+    
+    
+    .1*sin(3*x)+.1*cos(3*y)
+    
+    
+    
+    
+   
+ 
+ 
+ 
